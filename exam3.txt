@@ -1,0 +1,10 @@
+00000001	HULK	SHEILD	無敵	10	 -1 
+00000002	美國隊長	SHEILD	盾牌	8	 -1 
+00000003	黑寡婦	SHEILD	none	4	 -1 
+00000004	Ward	Hydra	none	 -1 	6.0
+00000005	Hive	Hydra	inhuman	 -1 	6.0
+00000006	鋼鐵人	SHEILD	鋼鐵裝	10	 -1 
+00000007	巴奇	Hydra	鋼鐵手臂	 -1 	5.0
+00000008	戰爭機器	SHEILD	鋼鐵裝	3	 -1 
+00000009	獵鷹	SHEILD	翅膀	3	 -1 
+00000010	鷹眼	SHEILD	神射手	3	 -1 
